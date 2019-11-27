@@ -1,5 +1,5 @@
 # ProgrammingAndAlgorithm
-doc文件下pdf文件整理
+doc文件下pdf文件整理，目录如下
 [北京大学】程序设计实习公开课 （C++版）
 ### 第 1 周 从 C 走进 C++ 
 1-1 函数指针   
